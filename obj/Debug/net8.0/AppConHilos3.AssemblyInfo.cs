@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppConHilos3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7bfa1c91d464878920a000b21a0cbdaddc9ca0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe80805a8d042af40515019957d8c3249e91a952")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppConHilos3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppConHilos3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
